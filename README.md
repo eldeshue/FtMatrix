@@ -1,6 +1,6 @@
 # Project Description
 SIMD(SSE)를 적용하여 최적화를 수행한 행렬 라이브러리.
-ecole42의 matrix 및 이후 graphics 과제에 사용할 예정이다.
+ecole42의 graphics 과제에 사용할 예정.
 
 # How to use
 ## 1. static linking
